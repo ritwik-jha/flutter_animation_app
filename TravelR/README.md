@@ -2,8 +2,6 @@
 
 Flutter Simple Travel Application UI/UX design.
 
-In this video we use, Flutter ListView, Gradient and so on in the one-speed video.
-
 
 ## ScreenShot
 
